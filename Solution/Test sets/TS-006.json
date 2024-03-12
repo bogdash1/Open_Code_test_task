@@ -1,0 +1,12 @@
+[
+  {
+    "Initial_value": "01.01.2010",
+    "Final_value": "29.02.2024",
+    "Result": "Valid Data - Valid Time"
+  },
+  {
+    "Initial_value": "01.01.2010",
+    "Final_value": "29.02.2027",
+    "Result": "*Message* Введенные значения неверные. Попробуйте еще раз"
+  }
+]
